@@ -25,10 +25,3 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Pytohn"/>
 </p>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiiishek44&show_icons=true&locale=en&layout=compact" alt="abhiiishek44" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiiishek44&show_icons=true&locale=en" alt="abhiiishek44" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiiishek44&" alt="abhiiishek44" /></p>
