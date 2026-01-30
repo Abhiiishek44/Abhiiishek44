@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumbhar</h1> 
-<h1 align="left">💫About me</h1>
-<h3 align="center">👋 Beginner Software Engineer | Passionate about coding and creating | Always learning and growing | Excited to collaborate on projects and contribute to the community | Let's build something awesome together! 🚀✨</h3>
+<h1 align="left">💫About me</h1></h3>
+<h3 align="center">Passionate about coding and creating | Always learning and growing | Excited to collaborate on projects and contribute to the community | Let's build something awesome together! 🚀✨
 
 <h3 align="left">🌐 Socials:</h3>
 
