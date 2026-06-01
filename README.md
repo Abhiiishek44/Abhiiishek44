@@ -1,7 +1,11 @@
-I am an AI & Data Science student focused on building real-world AI-powered applications that solve practical problems.
+I build practical AI-powered applications that turn intelligent systems into usable products.
 
-My work sits at the intersection of:
+My work focuses on:
 
-- 🤖 Artificial Intelligence  
-- 🧠 Generative AI & Agentic Workflows  
-- 🚀 Intelligent Automation Systems
+
+- 🧠 LLM-powered applications
+- ✨ Generative AI systems
+- 🤖 Agentic workflows
+- ⚙️ Intelligent automation
+- 🏗️ Reliable backend architecture
+- 🚀 Product-focused engineering
