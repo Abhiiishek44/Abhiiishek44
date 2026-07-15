@@ -1,11 +1,16 @@
-I build practical AI-powered applications that turn intelligent systems into usable products.
+### Founding Developer at [@InteraOne](https://github.com/InteraOne)
 
-My work focuses on:
+Building AI systems designed to ship, scale, and last.
 
+At InteraOne, I work across the full product stack — from LLM reasoning and agent workflows to backend architecture, retrieval systems, and production reliability.
 
-- 🧠 LLM-powered applications
-- ✨ Generative AI systems
-- 🤖 Agentic workflows
-- ⚙️ Intelligent automation
-- 🏗️ Reliable backend architecture
-- 🚀 Product-focused engineering
+**Core focus**
+
+→ Generative AI and LLM applications  
+→ Agentic systems and tool orchestration  
+→ RAG and knowledge infrastructure  
+→ Backend systems and API architecture  
+→ Intelligent automation  
+→ Production reliability and observability  
+
+I focus on turning advanced AI capabilities into dependable products.
