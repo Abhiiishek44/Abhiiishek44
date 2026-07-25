@@ -14,4 +14,3 @@ At InteraOne, I work across the full product stack — from LLM reasoning and ag
 → Production reliability and observability  
 
 I focus on turning advanced AI capabilities into dependable products.
-
