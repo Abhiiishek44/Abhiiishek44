@@ -1,4 +1,4 @@
-### Founding Developer at [@InteraOne](https://github.com/InteraOne)
+### Co-founder [@InteraOne](https://github.com/InteraOne)
 
 Building AI systems designed to ship, scale, and last.
 
