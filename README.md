@@ -1,8 +1,6 @@
-### Co-founder [@InteraOne](https://github.com/InteraOne)
+### Engineering [@InteraOne](https://github.com/InteraOne)
 
 Building AI systems designed to ship, scale, and last.
-
-At InteraOne, I work across the full product stack — from LLM reasoning and agent workflows to backend architecture, retrieval systems, and production reliability.
 
 **Core focus**
 
