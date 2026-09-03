@@ -12,3 +12,4 @@ Building AI systems designed to ship, scale, and last.
 → Production reliability and observability  
 
 I focus on turning advanced AI capabilities into dependable products.
+
