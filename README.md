@@ -1,14 +1,13 @@
 ### Engineering [@InteraOne](https://github.com/InteraOne)
 
-Building AI systems designed to ship, scale, and last.
+Currently working on building AI-powered applications and useful developer tools.
 
-**Core focus**
+**What I work on:**
 
-→ Generative AI and LLM applications  
-→ Agentic systems and tool orchestration  
-→ RAG and knowledge infrastructure  
-→ Backend systems and API architecture  
-→ Intelligent automation  
-→ Production reliability and observability  
+→ AI and LLM applications  
+→ AI agents and automation  
+→ RAG-based applications  
+→ Backend development and APIs  
+→ Integrating AI with real-world applications  
 
-I focus on turning advanced AI capabilities into dependable products.
+I enjoy building things, experimenting with new technologies, and learning along the way.
